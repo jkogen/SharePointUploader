@@ -2,7 +2,7 @@
 Uploads files on SharePoint (Client-sided, CSOM)
 
 Use it like below
-```
+```cs
 string username = "jkogen";
 string password = "mypass";
 
